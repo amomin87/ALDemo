@@ -7,9 +7,6 @@
 *.app
 *.zip
 
-# Temp files
-.vs/
-.vscode/
 
 # Others
 ~$*
