@@ -15,18 +15,18 @@
       "id":"5ecfc871-5d82-43f1-9c54-59685e82318d",
       "name":"LS Central",
       "publisher": "LS Retail",
-      "version": "19.0.0.0"
+      "version": "22.0.0.0"
       },
       {
         "id":"da034b08-af4a-47c7-998b-48bd0c8bc521",
         "name":"LS Central NA",
         "publisher": "LS Retail",
-        "version": "19.0.0.0"
+        "version": "22.0.0.0"
       }
     ],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "19.0.0.0",
+  "application": "22.0.0.0",
   "idRanges": [
     {
       "from": 50000,
@@ -38,6 +38,6 @@
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
   },
-  "runtime": "8.0",
-  "target": "OnPrem"
+  "runtime": "11.0",
+  "target": "Cloud"
 }
