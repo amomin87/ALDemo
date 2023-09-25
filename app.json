@@ -1,0 +1,43 @@
+{
+  "id": "03d40147-fda3-44d6-83fd-e60969255e00",
+  "name": "Template Project",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+   {
+      "id":"5ecfc871-5d82-43f1-9c54-59685e82318d",
+      "name":"LS Central",
+      "publisher": "LS Retail",
+      "version": "19.0.0.0"
+      },
+      {
+        "id":"da034b08-af4a-47c7-998b-48bd0c8bc521",
+        "name":"LS Central NA",
+        "publisher": "LS Retail",
+        "version": "19.0.0.0"
+      }
+    ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0",
+  "target": "OnPrem"
+}
