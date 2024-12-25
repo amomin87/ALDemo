@@ -10,20 +10,7 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [
-   {
-      "id":"5ecfc871-5d82-43f1-9c54-59685e82318d",
-      "name":"LS Central",
-      "publisher": "LS Retail",
-      "version": "22.0.0.0"
-      },
-      {
-        "id":"da034b08-af4a-47c7-998b-48bd0c8bc521",
-        "name":"LS Central NA",
-        "publisher": "LS Retail",
-        "version": "22.0.0.0"
-      }
-    ],
+  "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
